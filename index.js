@@ -1,0 +1,1 @@
+let valortabuada = prompt("Digite o valor da tabuada. ")
